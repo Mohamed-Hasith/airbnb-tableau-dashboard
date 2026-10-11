@@ -8,7 +8,7 @@ property type, price and monthly unavailability.
 (https://public.tableau.com/app/profile/mohamed.hasith/viz/AirBnb-DataVisualization/Dashboard1?publish=yes)
 
 ## Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Questions Answered
 - What types of properties are listed most often?
